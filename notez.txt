@@ -1,0 +1,22 @@
+GetUser(IntegerToIdentifier(GetUserInfo(IntegerToIdentifier(GetUserId())).UserInfo.higherup)).User.Name
+
+IdentifierToText(
+
+GetUserInfoesByUserid.List.Current.UserInfo.department = "IT"
+
+[IT Management]
+-Requests with complete approvals
+-Only show owned projects
+
+[New CRF]
+-create approval table entries
+-get approval IDs
+-requestID for approvals
+
+
+The INSERT statement conflicted 
+with the FOREIGN KEY constraint 
+"OSFRK_OSUSR_6LM_REQUEST2_OSSYS_USER_REQUESTER". 
+The conflict occurred in database "CGBDHT029", 
+table "dbo.ossys_User", column 'ID'. 
+The statement has been terminated.
